@@ -16,6 +16,4 @@ cotta.higor@gmail.com<br>
 higor.cotta@centralesupelec.fr
 
 ##### Social Medias & Others
-
-![Meee]({{ site.url }}/_fotos/hc.png)
-![Desktop]({{ site.url }}/_screenshots/1.png)
+![Meee](fotos/hc.png)
