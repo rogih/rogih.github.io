@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 
-  Hi there \o/ I'm Higor, a data scientist based between Paris@France and Vitória@Brazil (check the maps bellow)
+Hi there \o/ I'm Higor, a data scientist based between Paris@France and Vitória@Brazil (check the maps bellow)
 
 I use this space to share my thoughts on a wide range of topics and techiniques that are at the intersection of statistics, data science, computer science, data engineering & software development.
 
@@ -17,3 +17,5 @@ higor.cotta@centralesupelec.fr
 
 ##### Social Medias & Others
 
+![Meee]({{ site.url }}/_fotos/hc.png)
+![Desktop]({{ site.url }}/_screenshots/1.png)
