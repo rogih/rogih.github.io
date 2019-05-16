@@ -7,6 +7,10 @@ title:            Higor Cotta
 tagline:          'Home'
 description:      'data scientist'
 url:              https://rogih.github.io
+linkedin:	  higor-cotta-3646b814
+email: 		  cotta.higor@gmail.com
+github_username:  rogih
+twitter: 	  rogihc
 #baseurl:         
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -16,7 +20,7 @@ url:              https://rogih.github.io
 
 author:
   name:           'Higor Cotta'
-  url:            https://rogih.github.io
+  url:            https://rogih.github.io/
 
 paginate:         5
 # paginate_path:    '/page:num'
