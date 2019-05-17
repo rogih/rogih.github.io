@@ -1,7 +1,6 @@
 ---
 layout: category
 title: Research
-permalink: /research/
 ---
 Welcome to my research page. Below you will find a list of my publications and working papers as well as links to code(take a look at my project page).
 
