@@ -4,7 +4,7 @@ title: Projects
 sidebar_link: true
 ---
 
-This a list of my working projects. Some are R packages and codes that I've been working on for academic and/or learning purposes.
+This a partial list of my working projects. Some are R packages and codes that I've been working on for academic and/or learning purposes in Python and R. Take also a look at my [github](https://github.com/rogih) page.
 
 #### R packages
 
