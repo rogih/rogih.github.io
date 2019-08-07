@@ -11,14 +11,14 @@ Feel free to contact me if you want to discuss about them or about the analysis 
 ### Journal articles
 1. Reisen, V. A., Sgrancio, A. M., Lévy-Leduc, C., Bondon, P., Monte, E. Z., Cotta, H. H. A. and Ziegelmann, F. **A. Robust factor modeling for high-dimensional time series: An application to air pollution data**. Applied Mathematics and Computation, vol. 346, p.842-852, 2019.[[LINK]]({{site.url}}/papers/reisen_20019_applied_math_comp.pdf)
 2. Cotta, H. H. A., Reisen, V. A., Bondon, P., and Prezotti, P. R. **Management of an air quality monitoring network using robust principal component analysis**. submitted (2019).
-3. Machado, M., Reisen, V. A., Santos, J. M., Reis, N. C., Frere, S., Bondon, P., Ispány, M., and Cotta, H. (2019). **A new methodology using multivariate time series techniques to estimate the impact of particulate matter on the perceived annoyance**. Atmospheric Environment, to appear.
+3. Machado, M., Reisen, V. A., Santos, J. M., Reis, N. C., Frere, S., Bondon, P., Ispány, M., and Cotta, H. (2019). **A new methodology using multivariate time series techniques to estimate the impact of particulate matter on the perceived annoyance**. Atmospheric Environment, to appear (2019).
 4. Zamprogno, B., Reisen, V., Bondon, P., Cotta, H. H. A., and Reis, N. C., (2019). **Principal component analysis in the time domain and its implications with autocorrelated data**. Submitted
 5. Cotta, H. H. A., Correa, W. S. C., and Albuquerque, T. T. A. **APLICAÇÃO DA DISTRIBUIÇÃO DE GUMBEL PARA VALORES EXTREMOS DE PRECIPITAÇÃO NO MUNICÍPIO DE VITÓRIA-ES**. Revista Brasileira de Climatologia, vol. 19, p.203-2017, 2017.[[LINK]](https://revistas.ufpr.br/revistaabclima/article/download/39440/29391)(in portuguese).
 
 
 ### Book chapters
-1. V.A. Reisen, C. Lévy-Leduc, H.H.A. Cotta, P. Bondon, M. Ispany. **An overview of robust spectral estimators**, to apper in F. Chaari et al. (Eds.): Cyclostationarity: Theory and Methods – IV, 2019 .
-2. Ispány, M., Reisen, V. A., Franco, G. C., Bondon, P., Cotta, H. H. A., Filho, P. R. P., and Serpa, F. S. **On generalized additive models with dependent time series covariates**. In Rojas, I., Pomares, H., and Valenzuela, O., editors, Time Series Analysis and Forecasting, pages 289–308, Cham. Springer International Publishing ,2018 [[LINK]]({{site.url}}/papers/GAM-PCA-VAR_Contr_to_Stat_final.pdf)
+1. V.A. Reisen, C. Lévy-Leduc, H.H.A. Cotta, P. Bondon, M. Ispany. **An overview of robust spectral estimators**. in F. Chaari et al. (Eds.): Cyclostationarity: Theory and Methods – IV, 2019. [[LINK]]({{site.url}}/papers/10.1007-978-3-030-22529-212.pdf)
+2. Ispány, M., Reisen, V. A., Franco, G. C., Bondon, P., Cotta, H. H. A., Filho, P. R. P., and Serpa, F. S. **On generalized additive models with dependent time series covariates**. In Rojas, I., Pomares, H., and Valenzuela, O., editors, Time Series Analysis and Forecasting, pages 289–308, Cham. Springer International Publishing,2018. [[LINK]]({{site.url}}/papers/GAM-PCA-VAR_Contr_to_Stat_final.pdf)
 3. V.A. Reisen, C. Lévy-Leduc, H.H.A. Cotta **Long-memory models under outliers: an application to air pollution levels**. Air and Noise Pollution, vol. 3 of the Series "Environmental Science and Engineering (12 Vols.)", 2017.
 
 
