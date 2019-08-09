@@ -26,5 +26,15 @@ Feel free to contact me if you want to discuss about them or about the analysis 
 1. H. Cotta, V. Reisen, P. Bondon, C. Lévy-Leduc. **A robust alternative to the sample autocovariance and autocorrelation functions**. International Conference on Robust Statistics, 2019.
 2. H. Cotta, V. Reisen, P. Bondon, C. Lévy-Leduc. **Robust autocovariance estimation from the frequency domain**. International conference on Time Series and Forecasting, 2018.
 3. H. Cotta, V. Reisen, P. Bondon, C. Lévy-Leduc. **Robust estimation of covariance and correlation functions of a stationary multivariate process**. International conference on Time Series and Forecasting, 2017.
+4. F. Tristão, M. Andrare, E. Rocha, R. Lima, A. Garcia, H. Cotta, B. Barbosa, A. Tristão, C. Fioroti. **Users' Absenteeism in Health Services: An Analysis of the Health System Dynamics.** In: 15th World Congress on Public Health., 2017, Melbourne. Proceedings of 15th World Congress on Public Health, 2017.
 4. Machado, M., Santos, J. M., Reis, N. C., Reisen, V. A., Mavroidis, I., and Cotta, H. H. A. **Correlation between annoyance and the combined effect of particulate matter**. In 10th International Conference on Air Quality - Science and Application Hatfield: Published by the University of Hertfordshire, 2016.
 5. Reisen, V. A., Cotta, H. H. A., and Monte, E. Z.**Principal component analysis with outliers and time series data**. In 60th World Statistics Congress - ISI2015., Rio de Janeiro, Brazil, 2015.
+
+
+#### Conference papers in Brazil
+1. C. Giubertim, G. Nascimento, P. Costa, H. Cotta, E. Zandonade. **UNLICENSED AND OFF-LABEL USE OF MEDICINES IN AN UNIVERSITY HOSPITAL.** In: III CONGRESS OF THE BRAZILIAN ASSOCIATION OF PHARMACEUTICAL SCIENCES, 2016, Porto Alegre. ABSTRACT BOOK OF III CONGRESS OF THE BRAZILIAN ASSOCIATION OF PHARMACEUTICAL SCIENCES, 2016.
+2. M. Pimentel, R. Koch, L. Alves, F. Braga Neto, M. Filett, H. Cotta, F. Serpa.** Qualidade de vida em pacientes com asma grave em uso de omalizumabe**. In: XLIII Congresso Brasileiro de Alergia e Imunologia, 2016, Curitiba. Brazilian Journal of Allergy and Immunology. Porto Alegre, 2016. v. 3.
+3. F. Zaganeli, G. Brito, M. Morguetti, H. Cotta, A. Santos, J. Sossai.** MÃE ADOLESCENTE: GERAÇÃO NEM - NEM**. In: 37º Congresso Brasileiro de Pediatria, 2015, Rio de Janeiro. Anais do 37º Congresso Brasileiro de Pediatria, 2015.
+4. H. Cotta, A. Bertolde, H. Machado, G. Silva.**Análise de padrões de esquistossomose no Estado do Espírito Santo em 2010**. In: IX Congresso Brasileiro de Epidemiologia, 2014, Vitória. As Fronteiras da Epidemiologia Contemporânea: do conhecimento científico à ação., 2014, Vitória. Anais do IX Congresso Brasileiro de Epidemiologia, 2014, Vitória. As Fronteiras da Epidemiologia Contemporânea: do conhecimento científico à ação.. Rio de Janeiro: ABRASCO, 2014. p. 1072-1076.
+
+
