@@ -32,9 +32,10 @@ Feel free to contact me if you want to discuss about them or about the analysis 
 
 
 #### Conference papers in Brazil
-1. C. Giubertim, G. Nascimento, P. Costa, H. Cotta, E. Zandonade.  **Unlicensed and off-label use of medicines in an university hospital.** In: III Congress of the Brazilian Association of Pharmaceutical Sciences, 2016.
-2. M. Pimentel, R. Koch, L. Alves, F. Braga Neto, M. Filett, H. Cotta, F. Serpa. **Qualidade de vida em pacientes com asma grave em uso de omalizumabe**. In: XLIII Congresso Brasileiro de Alergia e Imunologia, 2016.
-3. F. Zaganeli, G. Brito, M. Morguetti, H. Cotta, A. Santos, J. Sossai. **Mãe adolescente: geração NEM - NEM**. In: 37º Congresso Brasileiro de Pediatria, 2015.
-4. H. Cotta, A. Bertolde, H. Machado, G. Silva. **Análise de padrões de esquistossomose no Estado do Espírito Santo em 2010**. In IX Congresso Brasileiro de Epidemiologia, 2014.
+1. V.A. Reisen,  C.L.N. Azevedo, P. Bondon, H.H.A. Cotta, F.S. Serpa.   **Additive mixed models with time series structures** In: XVIII School of Time Series and Econometrics, 2019.
+2. C. Giubertim, G. Nascimento, P. Costa, H. Cotta, E. Zandonade.  **Unlicensed and off-label use of medicines in an university hospital** In: III Congress of the Brazilian Association of Pharmaceutical Sciences, 2016.
+3. M. Pimentel, R. Koch, L. Alves, F. Braga Neto, M. Filett, H. Cotta, F. Serpa. **Qualidade de vida em pacientes com asma grave em uso de omalizumabe**. In: XLIII Congresso Brasileiro de Alergia e Imunologia, 2016.
+4. F. Zaganeli, G. Brito, M. Morguetti, H. Cotta, A. Santos, J. Sossai. **Mãe adolescente: geração NEM - NEM**. In: 37º Congresso Brasileiro de Pediatria, 2015.
+5. H. Cotta, A. Bertolde, H. Machado, G. Silva. **Análise de padrões de esquistossomose no Estado do Espírito Santo em 2010**. In IX Congresso Brasileiro de Epidemiologia, 2014.
 
 
