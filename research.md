@@ -10,9 +10,9 @@ Feel free to contact me if you want to discuss them or the analysis performed. I
 
 ### Journal articles
 
-1. B. Zamprogno, V.A. Reisen, P. Bondon, H.H.A. Cotta and N.C. Reis. **Principal component analysis in the time domain and its implications with autocorrelated data**. Journal of Statistical Computation and Simulation, 2020. [[LINK]]({{site.url}}/papers/pca_2020.pdf)
-2. M. Machado, V.A. Reisen, J.M. Santos, N.C. Reis, S. Frere, P. Bondon, M. Íspany and H.H.A. Cotta.  **A new methodology using multivariate time series techniques to estimate the impact of particulate matter on the perceived annoyance**. Atmospheric Environment, vol.222, p.117080, 2020.[[LINK]]({{site.url}}/papers/10.1016jatmosenv.2019.117080.pdf)
-3. H.H.A. Cotta, V.A. Reisen, P. Bondon and P.R. Prezotti. **Management of an air quality monitoring network using robust principal component analysis**. submitted (2019).
+1. H.H.A. Cotta, V.A. Reisen, P. Bondon and P.R. Prezotti. **Management of an air quality monitoring network using robust principal component analysis**. Environmental Modeling & Assessment, 2020. [[LINK]]({{site.url}}/papers/10.1007s10666-020-09717-7.pdf)
+2. B. Zamprogno, V.A. Reisen, P. Bondon, H.H.A. Cotta and N.C. Reis. **Principal component analysis in the time domain and its implications with autocorrelated data**. Journal of Statistical Computation and Simulation, 2020. [[LINK]]({{site.url}}/papers/pca_2020.pdf)
+3. M. Machado, V.A. Reisen, J.M. Santos, N.C. Reis, S. Frere, P. Bondon, M. Íspany and H.H.A. Cotta.  **A new methodology using multivariate time series techniques to estimate the impact of particulate matter on the perceived annoyance**. Atmospheric Environment, vol.222, p.117080, 2020.[[LINK]]({{site.url}}/papers/10.1016jatmosenv.2019.117080.pdf)
 4. V.A. Reisen, A.M. Sgrancio, C. Lévy-Leduc, P. Bondon, P., E.Z. Monte, H.H.A. Cotta and F. Ziegelmann. **A. Robust factor modeling for high-dimensional time series: An application to air pollution data**. Applied Mathematics and Computation, vol. 346, p.842-852, 2019.[[LINK]]({{site.url}}/papers/reisen_20019_applied_math_comp.pdf)
 5. H.H.A. Cotta, W.S.C. Correa and T.T.A. Albuquerque. **Aplicação da distribuição de gumbel para valores extremos de precipitação no município de Vitória-ES**. Revista Brasileira de Climatologia, vol. 19, p.203-2017, 2017.[[LINK]](https://revistas.ufpr.br/revistaabclima/article/download/39440/29391)(in portuguese).
 	
