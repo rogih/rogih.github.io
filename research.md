@@ -10,7 +10,7 @@ Feel free to contact me if you want to discuss them or the analysis performed. I
 
 ### Journal articles
 
-1. G. Franzo, W. Swart, M. Arbe, H. Cotta, M. Lecoupeur, W. Boyer, K. Koutoulis and M. Cecchinato. **Impact of Rotten eggs on hatchery performances: a multicentric study**. Submitted, 2020.
+1. G. Franzo, W. Swart, M. Arbe, H. Cotta, M. Lecoupeur, W. Boyer, K. Koutoulis and M. Cecchinato. **Impact of Rotten eggs on hatchery performances: a multicentric study**. Animals, 2020. [[LINK]]({{site.url}}/papers/animals-10-01725.pdf)
 2. H.H.A. Cotta, V.A. Reisen, P. Bondon and P.R. Prezotti. **Management of an air quality monitoring network using robust principal component analysis**. Environmental Modeling & Assessment, 2020. [[LINK]]({{site.url}}/papers/10.1007s10666-020-09717-7.pdf)
 3. B. Zamprogno, V.A. Reisen, P. Bondon, H.H.A. Cotta and N.C. Reis. **Principal component analysis in the time domain and its implications with autocorrelated data**. Journal of Statistical Computation and Simulation, 2020. [[LINK]]({{site.url}}/papers/pca_2020.pdf)
 4. M. Machado, V.A. Reisen, J.M. Santos, N.C. Reis, S. Frere, P. Bondon, M. Íspany and H.H.A. Cotta.  **A new methodology using multivariate time series techniques to estimate the impact of particulate matter on the perceived annoyance**. Atmospheric Environment, vol.222, p.117080, 2020.[[LINK]]({{site.url}}/papers/10.1016jatmosenv.2019.117080.pdf)
