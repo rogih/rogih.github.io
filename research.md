@@ -10,7 +10,7 @@ Feel free to contact me if you want to discuss them or the analysis performed. I
 
 ### Journal articles
 
-1. L.L.C. Gaona, C. Courtillon, F-X. Briand, H.H.A. Cotta, S. Bougeard, E. Hirchaud, A. Leroux, Y. Blanchard, A. Keita, M. Amelot, N. Eterradossi, T. Tatár-Kiss, I. Kiss, C. Cazaban, B. Grasland and S.M. Soubies. **High Antigenic Diversity Of Serotype 1 Infectious Bursal Disease Virus Revealed By Antigenic Cartography**. Submitted, 2022.
+1. L.L.C. Gaona, C. Courtillon, F-X. Briand, H.H.A. Cotta, S. Bougeard, E. Hirchaud, A. Leroux, Y. Blanchard, A. Keita, M. Amelot, N. Eterradossi, T. Tatár-Kiss, I. Kiss, C. Cazaban, B. Grasland and S.M. Soubies. **High Antigenic Diversity Of Serotype 1 Infectious Bursal Disease Virus Revealed By Antigenic Cartography**. Virus Research, 2022. [[LINK]]({{site.url}}/papers/20232023_cubas_gaona.pdf)
 2. G. Franzo, W. Swart, M. Arbe, H. Cotta, M. Lecoupeur, W. Boyer, K. Koutoulis and M. Cecchinato. **Impact of Rotten eggs on hatchery performances: a multicentric study**. Animals, 2020. [[LINK]]({{site.url}}/papers/animals-10-01725.pdf)
 3. H.H.A. Cotta, V.A. Reisen, P. Bondon and P.R. Prezotti. **Management of an air quality monitoring network using robust principal component analysis**. Environmental Modeling & Assessment, 2020. [[LINK]]({{site.url}}/papers/10.1007s10666-020-09717-7.pdf)
 4. B. Zamprogno, V.A. Reisen, P. Bondon, H.H.A. Cotta and N.C. Reis. **Principal component analysis in the time domain and its implications with autocorrelated data**. Journal of Statistical Computation and Simulation, 2020. [[LINK]]({{site.url}}/papers/pca_2020.pdf)
