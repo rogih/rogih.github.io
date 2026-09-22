@@ -14,3 +14,9 @@ This a partial list of my working projects. Some are R packages and codes that I
 
 ###### Projects and Misc. of R codes
 - [R-ml](https://github.com/rogih/R-ml) - My own solutions in R of Andrew Ng coursera ML course: https://www.coursera.org/learn/machine-learning/
+
+#### Python modules
+
+- [acfMperiod](https://pypi.org/project/acfmperiod/) - Python module of the acfMperiod package.
+
+- [tsqn](https://pypi.org/project/tsqn-python/) - Python module of the acfMperiod package.

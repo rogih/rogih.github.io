@@ -29,6 +29,8 @@ Feel free to contact me if you want to discuss them or the analysis performed. I
 
 
 #### Conference papers
+1. V. Leppkes, C. Wähner, H. Cotta, P. Mortensen, J. Altemeier and J. Kauffold **ECONOMIC IMPACT OF PNEUMONIA AND PLEURISY ON LUNG DISPOSAL COSTS AND MEAT YIELD IN TWO GERMAN SLAUGHTERHOUSES**. In The 28TH International Pig Veterinary Society Congress (IPVS), 2026.
+2. 1. V. Leppkes, C. Wähner, H. Cotta, P. Mortensen, J. Altemeier and J. Kauffold **COMPARISON OF TWO DIFFERENT LUNG SCORING METHODS FOR DETECTING PNEUMONIA AND PLEURISY IN SLAUGHTERHOUSES**. In The 28TH International Pig Veterinary Society Congress (IPVS), 2026.
 1. S. Van Colen, P. De Backer, GJ. de Reus, O. Ninet, H. Cotta and P. Mortensen. **Impact of App- and EP-like lung lesions on growth, carcass yield and economical return of finishing pigs**. In 11th Asian Pig Veterinary Society (APVS), 2025.
 1. M. Lecoupeur, J. Léorat, K. Gandon, H. Cotta, I. Kiss, G. Gonzalez and MA. Lopes. **Comparison of the spray application of a GI-13 (1/96) live infectious bronchitis vaccine using conical and flat nozzles**. In 23nd Congress of World Veterinary Poultry Association, 2025.
 1. J. Sarabia, A. Villa, H. Cotta and K. Koutoulis. **Comparison of two immune-complex vaccines for the control of Infectious Bursal Disease in broilers**. In 23nd Congress of World Veterinary Poultry Association, 2025.
